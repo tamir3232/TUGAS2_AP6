@@ -1,9 +1,0 @@
-{
-	"files.associations": {
-		"*.ejs": "html",
-		"*.js": "javascript",
-		"ostream": "cpp",
-		"iostream": "cpp"
-	}
-	"editor.fontSize":19,
-}
